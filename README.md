@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://i.pinimg.com/originals/b4/ee/c4/b4eec4d093adbe9d8a3cbb40d024836a.pn" width="250"></a>
+  <a href=""><img src="https://i.pinimg.com/originals/b4/ee/c4/b4eec4d093adbe9d8a3cbb40d024836a.png" width="250"></a>
   <br>
   <br>
 </h1>
@@ -18,7 +18,7 @@
  
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dek4evg4t/image/upload/v1562267184/ezgif.com-video-to-gif_1.gif" alt="centered gif">
+  <img src="https://res.cloudinary.com/dek4evg4t/image/upload/v1562267184/ezgif.com-video-to-gif_1.gi" alt="centered gif">
 </div>
 
  
